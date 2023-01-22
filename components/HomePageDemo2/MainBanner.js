@@ -11,7 +11,7 @@ const MainBanner = () => {
   console.log(carouselSelect,"hit carouselSelect")
   return (
     <>
-      <Carousel onChange={(index)=> handleonChange(index)} showArrows={true}>
+      <Carousel showThumbs={false} onChange={(index)=> handleonChange(index)} showArrows={true}>
         <div
           className="main-hero-area"
           style={{

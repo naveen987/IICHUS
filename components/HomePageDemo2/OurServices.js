@@ -89,7 +89,7 @@ const OurServices = () => {
           <span>Our Services</span>
           <h2>Get Benefit And More With Our Excelent Services</h2>
         </div>
-        <Carousel showArrows={true}>
+        <Carousel showThumbs={false} showArrows={true}>
           {cards.map((item) => {
             return (
               <div className="row justify-content-center">

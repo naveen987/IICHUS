@@ -177,7 +177,7 @@ const Domains = () => {
                     >
                       <div className="about-image">
                         <img
-                          src="/images/domain/logistic.JPG"
+                          src={`/images/domain/logistic.JPG`}
                           alt="Teza"
                         />
                       </div>

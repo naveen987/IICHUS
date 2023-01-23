@@ -15,7 +15,7 @@ const MainBanner = () => {
         <div
           className="main-hero-area"
           style={{
-            backgroundImage: `url("/images/main-hero/new-home-page-banner-1.jpg")`,
+            backgroundImage: `url("/images/main-hero/banner-1.jpg")`,
             height:"610px"
           }}
         >
@@ -65,7 +65,7 @@ const MainBanner = () => {
         <div
           className="main-hero-area"
           style={{
-            backgroundImage: `url("/images/main-hero/new-home-page-banner-2.jpg")`,
+            backgroundImage: `url("/images/main-hero/banner-2.jpg")`,
           }}
         >
           <div className="container-fluid">
@@ -129,7 +129,7 @@ const MainBanner = () => {
         <div
           className="main-hero-area"
           style={{
-            backgroundImage: `url("/images/main-hero/new-home-page-banner-3.jpg")`,
+            backgroundImage: `url("/images/main-hero/banner-3.jpg")`,
           }}
         >
           <div className="container-fluid">

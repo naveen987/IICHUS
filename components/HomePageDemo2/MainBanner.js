@@ -15,7 +15,7 @@ const MainBanner = () => {
         <div
           className="main-hero-area"
           style={{
-            backgroundImage: `url("images/main-hero/new-home-page-banner-1.jpg")`,
+            backgroundImage: `url("/images/main-hero/new-home-page-banner-1.JPG")`,
             height:"610px"
           }}
         >
@@ -65,7 +65,7 @@ const MainBanner = () => {
         <div
           className="main-hero-area"
           style={{
-            backgroundImage: `url("images/main-hero/new-home-page-banner-2.jpg")`,
+            backgroundImage: `url("/images/main-hero/new-home-page-banner-2.JPG")`,
           }}
         >
           <div className="container-fluid">
@@ -120,7 +120,7 @@ const MainBanner = () => {
           </div>
 
           <div className="main-hero-shape-1">
-            <img src="images/main-hero/shape-1.png" alt="Teza" />
+            <img src="/images/main-hero/shape-1.png" alt="Teza" />
           </div>
           <div className="main-hero-shape-2">
             <img src="/images/main-hero/shape-2.png" alt="Teza" />
@@ -129,7 +129,7 @@ const MainBanner = () => {
         <div
           className="main-hero-area"
           style={{
-            backgroundImage: `url("images/main-hero/new-home-page-banner-3.jpg")`,
+            backgroundImage: `url("/images/main-hero/new-home-page-banner-3.JPG")`,
           }}
         >
           <div className="container-fluid">
@@ -183,10 +183,10 @@ const MainBanner = () => {
           </div>
 
           <div className="main-hero-shape-1">
-            <img src="images/main-hero/shape-1.png" alt="Teza" />
+            <img src="/images/main-hero/shape-1.png" alt="Teza" />
           </div>
           <div className="main-hero-shape-2">
-            <img src="images/main-hero/shape-2.png" alt="Teza" />
+            <img src="/images/main-hero/shape-2.png" alt="Teza" />
           </div>
         </div>
       </Carousel>

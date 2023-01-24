@@ -15,7 +15,7 @@ const DigitalMarketing = () => {
                   </a>
                 </Link>
 
-                <img src="/images/services/digital-marketing.jpg" alt="Teza" />
+                <img src="../images/services/digital-marketing.jpg" alt="Teza" />
 
                 <h3>Business Strategy</h3>
                 <p>

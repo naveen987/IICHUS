@@ -15,7 +15,7 @@ const ERP = () => {
                   </a>
                 </Link>
 
-                <img src="/images/services/erp.jpg" alt="Teza" />
+                <img src="../images/services/erp.jpg" alt="Teza" />
 
                 <h3>Business Strategy</h3>
                 <p>

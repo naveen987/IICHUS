@@ -15,7 +15,7 @@ const MobileAppDetails = () => {
                   </a>
                 </Link>
 
-                <img src="/images/services/mobile-app-development.jpg" alt="Teza" />
+                <img src="../images/services/mobile-app-development.jpg" alt="Teza" />
 
                 <h3>Business Strategy</h3>
                 <p>

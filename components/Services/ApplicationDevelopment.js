@@ -15,7 +15,7 @@ const ApplicationDevelopment = () => {
                   </a>
                 </Link>
 
-                <img src="/images/services/application-development.jpg" alt="Teza" />
+                <img src="../images/services/application-development.jpg" alt="Teza" />
 
                 <h3>Business Strategy</h3>
                 <p>

@@ -14,7 +14,7 @@ const Testing = () => {
                     <i className="ri-arrow-left-line"></i> Back to Services
                   </a>
                 </Link>
-                <img src="/images/services/testing.jpg" alt="Teza" />
+                <img src="../images/services/testing.jpg" alt="Teza" />
                 <h3>Business Strategy</h3>
                 <p>
                   We offers great customer experience by delivering quality

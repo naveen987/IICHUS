@@ -20,7 +20,7 @@ const Domains = () => {
                     >
                       <div className="about-image">
                         <img
-                          src="/images/domain/retail.JPG"
+                          src="../images/domain/retail.jpg"
                           alt="Teza"
                         />
                       </div>
@@ -93,7 +93,7 @@ const Domains = () => {
                     >
                       <div className="about-image">
                         <img
-                          src="/images/domain/insurance.JPG"
+                          src="../images/domain/insurance.jpg"
                           alt="Teza"
                         />
                       </div>
@@ -108,7 +108,7 @@ const Domains = () => {
                       data-aos-once="true"
                     >
                       <div className="about-image">
-                        <img src="/images/domain/banking.JPG" alt="Teza" />
+                        <img src="../images/domain/banking.jpg" alt="Teza" />
                       </div>
                     </div>
 
@@ -177,7 +177,7 @@ const Domains = () => {
                     >
                       <div className="about-image">
                         <img
-                          src={`/images/domain/logistic.JPG`}
+                          src="../images/domain/logistic.jpg"
                           alt="Teza"
                         />
                       </div>

@@ -63,10 +63,10 @@ const OurExpertise = () => {
                 data-aos-duration="500"
                 data-aos-once="true"
               >
-                <img src="/images/why-choose-us/choose-1.jpg" alt="Teza" />
+                <img src="../images/why-choose-us/choose-1.jpg" alt="Teza" />
 
                 <div className="why-choose-us-shape-1">
-                  <img src="/images/why-choose-us/shape-1.png" alt="Teza" />
+                  <img src="../images/why-choose-us/shape-1.png" alt="Teza" />
                 </div>
               </div>
             </div>

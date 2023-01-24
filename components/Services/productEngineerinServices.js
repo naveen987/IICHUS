@@ -15,7 +15,7 @@ const productEngneeringServices = () => {
                   </a>
                 </Link>
 
-                <img src="/images/services/product-engineering-service.jpg" alt="Teza" />
+                <img src="../images/services/product-engineering-service.jpg" alt="Teza" />
 
                 <h3>Business Strategy</h3>
                 <p>

@@ -15,7 +15,7 @@ const DataWarehousing = () => {
                   </a>
                 </Link>
 
-                <img src="/images/services/datawarehouse.jpg" alt="Teza" />
+                <img src="../images/services/datawarehouse.jpg" alt="Teza" />
 
                 <h3>Business Strategy</h3>
                 <p>

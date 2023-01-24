@@ -92,7 +92,7 @@ const Career = () => {
               data-aos-once="true"
             >
               <div className="about-image">
-                <img src="/images/about/about-1.png" alt="Teza" />
+                <img src="../images/about/about-1.png" alt="Teza" />
               </div>
             </div>
           </div>

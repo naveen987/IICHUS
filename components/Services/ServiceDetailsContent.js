@@ -46,7 +46,7 @@ const ServiceDetailsContent = () => {
                       data-aos-once="true"
                     >
                       <div className="about-image">
-                        <img src="/images/dynamic-website-design.jpg" alt="Teza" />
+                        <img src="/images/Dynamic.jpg" alt="Teza" />
                       </div>
                     </div>
 

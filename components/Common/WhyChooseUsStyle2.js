@@ -12,7 +12,12 @@ const WhyChooseUsStyle2 = () => {
         sources={["https://www.youtube.com/watch?v=bk7McNUjWgw"]}
       /> */}
 
-      <div className="why-choose-us-area-with-video ptb-100">
+      <div
+        className="why-choose-us-area-with-video ptb-100"
+        style={{
+          backgroundImage: `url("../images/why-choose-us/choose-us.jpg")`,
+        }}
+      >
         <div className="container">
           <div className="row align-items-center justify-content-center">
             <div className="col-lg-6 col-md-12">
@@ -34,7 +39,10 @@ const WhyChooseUsStyle2 = () => {
                 <span>Why Choose Us</span>
                 <h3>Our Working Process To Help Your Boost Your Business</h3>
                 <p>
-                iihcus provides the best IT services for your small to medium-sized business. We offer speed, low cost, data protection and stability so you can focus on what matters most to you!.
+                  iihcus provides the best IT services for your small to
+                  medium-sized business. We offer speed, low cost, data
+                  protection and stability so you can focus on what matters most
+                  to you!.
                 </p>
 
                 <div className="choose-us-inner-box">
@@ -43,7 +51,10 @@ const WhyChooseUsStyle2 = () => {
                   </div>
                   <h4>INSURANCE AND HEALTHCARE</h4>
                   <p>
-                  We help to look at ways to reimagine and apply technology broadly to traditional functions to face the disruptions. Our experienced consultants offer innovative strategies and valuable insights to sustainable competitive advantage.
+                    We help to look at ways to reimagine and apply technology
+                    broadly to traditional functions to face the disruptions.
+                    Our experienced consultants offer innovative strategies and
+                    valuable insights to sustainable competitive advantage.
                   </p>
                 </div>
 
@@ -53,7 +64,10 @@ const WhyChooseUsStyle2 = () => {
                   </div>
                   <h4>BANKING AND FINANCIAL</h4>
                   <p>
-                  Disruptions in the business landscape and the impact of technology are compelling banks to shift to innovative business models, we help customers embrace digital transformation through the various banking functions.
+                    Disruptions in the business landscape and the impact of
+                    technology are compelling banks to shift to innovative
+                    business models, we help customers embrace digital
+                    transformation through the various banking functions.
                   </p>
                 </div>
               </div>

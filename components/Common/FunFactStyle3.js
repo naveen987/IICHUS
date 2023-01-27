@@ -3,7 +3,9 @@ import React from "react";
 const FunFactStyle3 = () => {
   return (
     <>
-      <div className="fun-fact-area bg-three pt-100 pb-75">
+      <div className="fun-fact-area bg-three pt-100 pb-75" style={{
+            backgroundImage: `url("../images/funfact/funfact-bg.jpg")`,
+          }}>
         <div className="container">
           <div className="section-title">
             <span className="section-title">Our value</span>

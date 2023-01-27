@@ -34,7 +34,7 @@ const NavbarStyle1 = () => {
                 <a className="navbar-brand">
                   <img
                     style={{width:"40%",color:"#656565"}}
-                    src="../images/IIHCUS-LOGO.jpg"
+                    src="./images/IIHCUS-LOGO.jpg"
                     alt="Black logo"
                     className="black-logo"
                   />
@@ -58,7 +58,7 @@ const NavbarStyle1 = () => {
 
               <div className={classOne} id="navbarSupportedContent">
                 <ul className="navbar-nav me-auto">
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link href="#">
                       <a className="nav-link">
                         Home <i className="ri-arrow-down-s-line"></i>
@@ -81,7 +81,7 @@ const NavbarStyle1 = () => {
                         </Link>
                       </li>
                     </ul>
-                  </li>
+                  </li> */}
 
                   <li className="nav-item">
                     <a href="#" className="nav-link">
@@ -90,14 +90,14 @@ const NavbarStyle1 = () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/about" activeClassName="active">
-                          <a className="nav-link">About Style - 1</a>
+                          <a className="nav-link">About Style</a>
                         </Link>
                       </li>
-                      <li className="nav-item">
+                      {/* <li className="nav-item">
                         <Link href="/about-2" activeClassName="active">
                           <a className="nav-link">About Style - 2</a>
                         </Link>
-                      </li>
+                      </li> */}
                     </ul>
                   </li>
 
@@ -111,11 +111,11 @@ const NavbarStyle1 = () => {
                           <a className="nav-link">Services</a>
                         </Link>
                       </li>
-                      <li className="nav-item">
+                      {/* <li className="nav-item">
                         <Link href="/service-details" activeClassName="active">
                           <a className="nav-link">Services Details</a>
                         </Link>
-                      </li>
+                      </li> */}
                     </ul>
                   </li>
 

@@ -29,6 +29,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>Teza - Creative Agency React Next.js Template</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet"></link>
       </Head>
 
       <Component {...pageProps} />

@@ -15,7 +15,7 @@ const AuthorBlogPost = () => {
                     <div className="blog-image">
                       <Link href="/blog-details">
                         <a>
-                          <img src="/images/blog/blog-4.jpg" alt="image" />
+                          <img src="../images/blog/blog-4.jpg" alt="image" />
                         </a>
                       </Link>
                     </div>
@@ -54,7 +54,7 @@ const AuthorBlogPost = () => {
                     <div className="blog-image">
                       <Link href="/blog-details">
                         <a>
-                          <img src="/images/blog/blog-5.jpg" alt="image" />
+                          <img src="../images/blog/blog-5.jpg" alt="image" />
                         </a>
                       </Link>
                     </div>
@@ -90,7 +90,7 @@ const AuthorBlogPost = () => {
                     <div className="blog-image">
                       <Link href="/blog-details">
                         <a>
-                          <img src="/images/blog/blog-6.jpg" alt="image" />
+                          <img src="../images/blog/blog-6.jpg" alt="image" />
                         </a>
                       </Link>
                     </div>
@@ -128,7 +128,7 @@ const AuthorBlogPost = () => {
                     <div className="blog-image">
                       <Link href="/blog-details">
                         <a>
-                          <img src="/images/blog/blog-7.jpg" alt="image" />
+                          <img src="../images/blog/blog-7.jpg" alt="image" />
                         </a>
                       </Link>
                     </div>
@@ -164,7 +164,7 @@ const AuthorBlogPost = () => {
                     <div className="blog-image">
                       <Link href="/blog-details">
                         <a>
-                          <img src="/images/blog/blog-8.jpg" alt="image" />
+                          <img src="../images/blog/blog-8.jpg" alt="image" />
                         </a>
                       </Link>
                     </div>
@@ -200,7 +200,7 @@ const AuthorBlogPost = () => {
                     <div className="blog-image">
                       <Link href="/blog-details">
                         <a>
-                          <img src="/images/blog/blog-9.jpg" alt="image" />
+                          <img src="../images/blog/blog-9.jpg" alt="image" />
                         </a>
                       </Link>
                     </div>

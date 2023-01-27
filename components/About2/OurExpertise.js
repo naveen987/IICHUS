@@ -63,11 +63,11 @@ const OurExpertise = () => {
                 data-aos-duration="500"
                 data-aos-once="true"
               >
-                <img src="/images/expertise/expertise-2.png" alt="image" />
+                <img src="../images/expertise/expertise-2.png" alt="image" />
 
                 <div className="expertise-shape-2">
                   <img
-                    src="/images/expertise/shape-2.png"
+                    src="../images/expertise/shape-2.png"
                     alt="image"
                     data-aos="fade-left"
                     data-aos-delay="50"

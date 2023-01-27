@@ -10,7 +10,7 @@ const AboutOurCompany = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-image-wrap">
                 <img
-                  src="../images/about/home-page-section-back.jpg"
+                  src="./images/about/home-page-section-back.jpg"
                   alt="About Image"
                   data-aos="fade-down"
                   data-aos-delay="50"
@@ -18,7 +18,7 @@ const AboutOurCompany = () => {
                   data-aos-once="true"
                 />
                 <img
-                  src="../images/about/home-page-section-front.jpg"
+                  src="./images/about/home-page-section-front.jpg"
                   alt="About Image"
                   data-aos="fade-up"
                   data-aos-delay="50"

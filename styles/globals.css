@@ -1107,7 +1107,6 @@ Services Area CSS
 Funfact Area CSS
 =================================================*/
 .fun-fact-area {
-  background-image: url(/images/funfact/funfact-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;

@@ -15,7 +15,7 @@ const WhyChooseUsStyle2 = () => {
       <div
         className="why-choose-us-area-with-video ptb-100"
         style={{
-          backgroundImage: `url("../images/why-choose-us/choose-us.jpg")`,
+          backgroundImage: `url("./images/why-choose-us/choose-us.jpg")`,
         }}
       >
         <div className="container">

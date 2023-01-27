@@ -13,7 +13,7 @@ const Footer = () => {
                 <div className="widget-logo">
                   <Link href="/">
                     <a>
-                      <img src="../images/logo-2.png" alt="Teza" />
+                      <img src="./images/IIHCUS-LOGO.jpg" alt="Teza" />
                     </a>
                   </Link>
                 </div>
@@ -155,3 +155,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+

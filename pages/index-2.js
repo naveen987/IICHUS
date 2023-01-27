@@ -1,50 +1,53 @@
 import React from "react";
-import NavbarStyle2 from "@/components/Layout/Navbar/NavbarStyle2";
-import MainBanner from "@/components/HomePageDemo2/MainBanner";
-import AboutOurCompany from "@/components/HomePageDemo2/AboutOurCompany";
-import FunFactStyle2 from "@/components/Common/FunFactStyle2";
-import OurServices from "@/components/HomePageDemo2/OurServices";
-import WhyChooseUsStyle2 from "@/components/Common/WhyChooseUsStyle2";
-import EnquiryForm from "@/components/EnquiryForm/Enquiry";
+import NavbarStyle1 from "@/components/Layout/Navbar/NavbarStyle1";
+import MainBanner from "@/components/HomePageDemo1/MainBanner";
+import TopServices from "@/components/HomePageDemo1/TopServices";
+import AboutOurCompany from "@/components/HomePageDemo1/AboutOurCompany";
+import FunFactStyle1 from "@/components/Common/FunFactStyle1";
+import OurServices from "@/components/HomePageDemo1/OurServices";
 import CaseStudy from "@/components/Common/CaseStudy";
-import OurExpertise from "@/components/HomePageDemo2/OurExpertise";
-import TestimonialStyle2 from "@/components/Common/TestimonialStyle2";
-import TeamMemberStyle2 from "@/components/Common/TeamMemberStyle2";
+import WhyChooseUsStyle1 from "@/components/Common/WhyChooseUsStyle1";
+import TestimonialStyle1 from "@/components/Common/TestimonialStyle1";
+import OurExpertise from "@/components/HomePageDemo1/OurExpertise";
+import EnquiryForm from '@/components/EnquiryForm/Enquiry';
+import TeamMemberStyle1 from "@/components/Common/TeamMemberStyle1";
 import LatestArticles from "@/components/Common/LatestArticles";
 import Cta from "@/components/Common/Cta";
 import Footer from "@/components/Layout/Footer/Footer";
 
-export default function Index2() {
+export default function Index() {
   return (
     <>
-      <NavbarStyle2 />
+      <NavbarStyle1 />
 
       <MainBanner />
 
+      <TopServices />
+
       <AboutOurCompany />
 
-      {/* <FunFactStyle2 /> */}
+      <FunFactStyle1 />
 
       <OurServices />
+ 
+      <CaseStudy />
 
-      <WhyChooseUsStyle2 />
+      <WhyChooseUsStyle1 />
 
-      <EnquiryForm />
-
-      {/* <CaseStudy /> */}
+      <TestimonialStyle1 />
 
       <OurExpertise />
 
-      {/* <TestimonialStyle2 /> */}
+      <EnquiryForm />
 
-      {/* <TeamMemberStyle2 /> */}
+      <TeamMemberStyle1 />
 
-      {/* <div className="pb-100">
+      <div className="ptb-100">
         <LatestArticles />
-      </div> */}
-
+      </div>
+ 
       <Cta />
-
+ 
       <Footer />
     </>
   );

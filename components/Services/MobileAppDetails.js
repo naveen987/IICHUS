@@ -38,7 +38,7 @@ const MobileAppDetails = () => {
                     >
                       <div className="about-image">
                         <img
-                          src="/images/Mobile-App-UI-UX Design-Service-Providers.jpg"
+                          src="../images/Mobile-App-UI-UX Design-Service-Providers.jpg"
                           alt="Teza"
                         />
                       </div>
@@ -91,7 +91,7 @@ const MobileAppDetails = () => {
                     >
                       <div className="about-image">
                         <img
-                          src="/images/Custom-Mobile-Apps-Development.jpg"
+                          src="../images/Custom-Mobile-Apps-Development.jpg"
                           alt="Teza"
                         />
                       </div>
@@ -106,7 +106,7 @@ const MobileAppDetails = () => {
                       data-aos-once="true"
                     >
                       <div className="about-image">
-                        <img src="/images/mobile-app-development.jpg" alt="Teza" />
+                        <img src="../images/mobile-app-development.jpg" alt="Teza" />
                       </div>
                     </div>
 
@@ -155,7 +155,7 @@ const MobileAppDetails = () => {
                     >
                       <div className="about-image">
                         <img
-                          src="/images/mobile-app-development-one.jpg"
+                          src="../images/mobile-app-development-one.jpg"
                           alt="Teza"
                         />
                       </div>

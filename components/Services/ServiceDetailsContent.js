@@ -46,7 +46,7 @@ const ServiceDetailsContent = () => {
                       data-aos-once="true"
                     >
                       <div className="about-image">
-                        <img src="/images/Dynamic.jpg" alt="Teza" />
+                        <img src="../images/Dynamic.jpg" alt="Teza" />
                       </div>
                     </div>
 
@@ -94,7 +94,7 @@ const ServiceDetailsContent = () => {
                       data-aos-once="true"
                     >
                       <div className="about-image">
-                        <img src="/images/static-website-design.jpg" alt="Teza" />
+                        <img src="../images/static-website-design.jpg" alt="Teza" />
                       </div>
                     </div>
                   </div>
@@ -107,7 +107,7 @@ const ServiceDetailsContent = () => {
                       data-aos-once="true"
                     >
                       <div className="about-image">
-                        <img src="/images/ui-ux-design.jpg" alt="Teza" />
+                        <img src="../images/ui-ux-design.jpg" alt="Teza" />
                       </div>
                     </div>
 
@@ -169,7 +169,7 @@ const ServiceDetailsContent = () => {
                       data-aos-once="true"
                     >
                       <div className="about-image">
-                        <img src="/images/E-Commerce-Website-Development.jpg" alt="Teza" />
+                        <img src="../images/E-Commerce-Website-Development.jpg" alt="Teza" />
                       </div>
                     </div>
                   </div>
@@ -182,7 +182,7 @@ const ServiceDetailsContent = () => {
                       data-aos-once="true"
                     >
                       <div className="about-image">
-                        <img src="/images/Custom-Application-Development.jpg" alt="Teza" />
+                        <img src="../images/Custom-Application-Development.jpg" alt="Teza" />
                       </div>
                     </div>
 

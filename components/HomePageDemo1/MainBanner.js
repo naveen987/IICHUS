@@ -52,7 +52,7 @@ const MainBanner = () => {
                 <SwiperSlide>
                   <div className="slides-image-item">
                     <img
-                      src="/images/main-banner/banner-1.jpg"
+                      src="../images/main-banner/banner-1.jpg"
                       alt="Banner Img 1"
                     />
                   </div>
@@ -60,7 +60,7 @@ const MainBanner = () => {
                 <SwiperSlide>
                   <div className="slides-image-item">
                     <img
-                      src="/images/main-banner/banner-2.jpg"
+                      src="../images/main-banner/banner-2.jpg"
                       alt="Banner Img 2"
                     />
                   </div>
@@ -68,7 +68,7 @@ const MainBanner = () => {
                 <SwiperSlide>
                   <div className="slides-image-item">
                     <img
-                      src="/images/main-banner/banner-3.jpg"
+                      src="../images/main-banner/banner-3.jpg"
                       alt="Banner Img 3"
                     />
                   </div>
@@ -79,10 +79,10 @@ const MainBanner = () => {
         </div>
 
         <div className="main-banner-shape-1">
-          <img src="/images/main-banner/shape-1.png" alt="Shape 1" />
+          <img src="../images/main-banner/shape-1.png" alt="Shape 1" />
         </div>
         <div className="main-banner-shape-2">
-          <img src="/images/main-banner/shape-2.png" alt="Shape 2" />
+          <img src="../images/main-banner/shape-2.png" alt="Shape 2" />
         </div>
         <div className="main-banner-bg-text">Teza</div>
       </div>

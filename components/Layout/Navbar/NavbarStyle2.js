@@ -34,7 +34,7 @@ const NavbarStyle2 = () => {
                 <a className="navbar-brand">
                   <img
                     style={{ width: "40%" }}
-                    src="/images/IIHCUS-LOGO.jpg"
+                    src="../images/IIHCUS-LOGO.jpg"
                     alt="Black logo"
                     className="black-logo"
                   />

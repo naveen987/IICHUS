@@ -5,7 +5,7 @@ const PageBanner = ({ title, homeText, homeUrl }) => {
   return (
     <>
       <div className="page-banner-area" style={{
-        backgroundImage: `url("/images/generic.jpg")`
+        backgroundImage: `url("../images/generic.jpg")`
       }}>
         <div className="container">
           <div className="row align-items-center justify-content-center">

@@ -59,13 +59,13 @@ const MainBanner = () => {
               <div
                 className="main-banner-wrap-image"
               >
-                <img src="/images/main-banner/banner-4.png" alt="Teza" />
+                <img src="../images/main-banner/banner-4.png" alt="Teza" />
 
                 <div
                   className="banner-wrap-shape-1"
                 >
                   <img
-                    src="/images/main-banner/shape-1.png"
+                    src="../images/main-banner/shape-1.png"
                     alt="Teza"
                     data-aos="fade-down"
                     data-aos-delay="80"
@@ -77,7 +77,7 @@ const MainBanner = () => {
                   className="banner-wrap-shape-2"
                 >
                   <img
-                    src="/images/main-banner/shape-2.png"
+                    src="../images/main-banner/shape-2.png"
                     alt="Teza"
                     data-aos="fade-up"
                     data-aos-delay="90"

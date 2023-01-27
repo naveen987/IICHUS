@@ -10,7 +10,7 @@ const AboutOurCompany = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-image-wrap">
                 <img
-                  src="/images/about/about-2.jpg"
+                  src="../images/about/about-2.jpg"
                   alt="Teza"
                   data-aos="fade-down"
                   data-aos-delay="50"
@@ -18,7 +18,7 @@ const AboutOurCompany = () => {
                   data-aos-once="true"
                 />
                 <img
-                  src="/images/about/about-3.jpg"
+                  src="../images/about/about-3.jpg"
                   alt="Teza"
                   data-aos="fade-up"
                   data-aos-delay="50"
@@ -29,7 +29,7 @@ const AboutOurCompany = () => {
                 <div
                   className="about-shape-3"
                 >
-                  <img src="/images/about/shape-1.png" alt="Teza" />
+                  <img src="../images/about/shape-1.png" alt="Teza" />
                 </div>
               </div>
             </div>

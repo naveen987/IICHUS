@@ -92,7 +92,7 @@ const TopServices = () => {
         </div>
 
         <div className="features-shape-1">
-          <img src="/images/features/shape-1.png" alt="image" />
+          <img src="../images/features/shape-1.png" alt="image" />
         </div>
       </div>
     </>

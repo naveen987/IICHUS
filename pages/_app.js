@@ -1,10 +1,10 @@
 import React from "react";
 import AOS from "aos";
-import "../node_modules/aos/dist/aos.css";
-import "../styles/bootstrap.min.css";
-import "../styles/animate.min.css";
-import "../styles/remixicon.css";
-import "../styles/flaticon.css";
+import "/node_modules/aos/dist/aos.css";
+import "/styles/bootstrap.min.css";
+import "/styles/animate.min.css";
+import "/styles/remixicon.css";
+import "/styles/flaticon.css";
 import "react-accessible-accordion/dist/fancy-example.css";
 import "swiper/css";
 import "swiper/css/bundle";

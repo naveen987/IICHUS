@@ -1123,9 +1123,9 @@ Funfact Area CSS
   background-image: url(/images/funfact/funfact-bg-2.jpg);
 }
 
-.fun-fact-area.bg-three {
+/* .fun-fact-area.bg-three {
   background-image: url(/images/funfact/funfact-bg-3.jpg);
-}
+} */
 
 .fun-fact-area.bg-three .section-title h2 {
   color: var(--white-color);

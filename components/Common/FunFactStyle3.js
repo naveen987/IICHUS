@@ -4,7 +4,7 @@ const FunFactStyle3 = () => {
   return (
     <>
       <div className="fun-fact-area bg-three pt-100 pb-75" style={{
-            backgroundImage: `url("../images/funfact/funfact-bg.jpg")`,
+            backgroundImage: `url("../images/funfact/funfact-bg-3.jpg")`,
           }}>
         <div className="container">
           <div className="section-title">

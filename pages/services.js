@@ -15,7 +15,7 @@ export default function Services() {
 
       <ServicesCard />
 
-      <TestimonialStyle2 />
+      {/* <TestimonialStyle2 /> */}
 
       <div className="pt-100">
         <Cta />

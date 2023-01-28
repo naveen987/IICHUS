@@ -40,7 +40,7 @@ export default function Index() {
 
       <EnquiryForm />
 
-      <TeamMemberStyle1 />
+      {/* <TeamMemberStyle1 /> */}
 
       <div className="ptb-100">
         <LatestArticles />
